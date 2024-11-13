@@ -1,44 +1,59 @@
-<h1 style="font-size: 2em; color: #0366d6;">👋 Hey there, I'm Damir (@damirdevio)</h1>
-<p style="font-size: 1.2em; color: #586069;">
-  I'm a <strong>Frontend Developer</strong> with a passion for <strong>React</strong> and <strong>Next.js</strong>, always on a journey to create sleek, functional, and user-centered designs! I enjoy diving into new technologies, experimenting with UI/UX, and building applications that make the web a better place.
-</p>
+<div style="font-family: Arial, sans-serif; max-width: 700px; margin: auto; padding: 20px; background-color: #f9f9f9; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); border-radius: 8px;">
 
-<h2 style="color: #0366d6; margin-top: 1em;">👀 What I'm interested in</h2>
-<ul style="font-size: 1em; color: #586069;">
-  <li><strong>Modern Web Development</strong> — from HTML/CSS to React and beyond</li>
-  <li><strong>UI/UX Design</strong> — exploring and implementing intuitive user interfaces</li>
-  <li><strong>Web Performance Optimization</strong> — because speed matters!</li>
-  <li><strong>Accessibility</strong> — ensuring every user feels welcome</li>
-</ul>
+  <h1 style="font-size: 2.2em; color: #0366d6; text-align: center;">👋 Hey there, I'm Damir (@damirdevio)</h1>
+  <p style="font-size: 1.1em; color: #333; text-align: center; margin-bottom: 20px;">
+    I'm a <strong>Frontend Developer</strong> with a passion for <strong>React</strong> and <strong>Next.js</strong>, constantly exploring new technologies to create beautiful and functional web applications. Let’s build a better web together!
+  </p>
 
-<h2 style="color: #0366d6; margin-top: 1em;">🌱 Currently Learning</h2>
-<ul style="font-size: 1em; color: #586069;">
-  <li>Advanced <strong>Next.js</strong> techniques for improved performance and scalability</li>
-  <li><strong>TypeScript</strong> for a better developer experience and cleaner code</li>
-  <li><strong>Three.js</strong> for interactive 3D web experiences</li>
-</ul>
+  <section style="background-color: #ffffff; padding: 20px; border-radius: 8px; margin-bottom: 16px; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);">
+    <h2 style="color: #0366d6;">👀 Interests</h2>
+    <ul style="list-style-type: none; padding: 0;">
+      <li style="color: #555; padding: 6px 0;"><strong>Modern Web Development</strong> — from HTML/CSS to React and beyond</li>
+      <li style="color: #555; padding: 6px 0;"><strong>UI/UX Design</strong> — creating intuitive user experiences</li>
+      <li style="color: #555; padding: 6px 0;"><strong>Web Performance Optimization</strong> — because speed matters!</li>
+      <li style="color: #555; padding: 6px 0;"><strong>Accessibility</strong> — making the web inclusive for everyone</li>
+    </ul>
+  </section>
 
-<h2 style="color: #0366d6; margin-top: 1em;">💼 Looking to Collaborate</h2>
-<ul style="font-size: 1em; color: #586069;">
-  <li>Open-source <strong>React</strong> projects</li>
-  <li><strong>Frontend communities</strong> for knowledge sharing and growth</li>
-  <li>Teams that value design and usability as much as functionality</li>
-</ul>
+  <section style="background-color: #ffffff; padding: 20px; border-radius: 8px; margin-bottom: 16px; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);">
+    <h2 style="color: #0366d6;">🌱 Currently Learning</h2>
+    <ul style="list-style-type: none; padding: 0;">
+      <li style="color: #555; padding: 6px 0;">Advanced <strong>Next.js</strong> techniques</li>
+      <li style="color: #555; padding: 6px 0;"><strong>TypeScript</strong> for enhanced developer experience</li>
+      <li style="color: #555; padding: 6px 0;"><strong>Three.js</strong> for interactive 3D experiences</li>
+    </ul>
+  </section>
 
-<h2 style="color: #0366d6; margin-top: 1em;">📫 How to Reach Me</h2>
-<ul style="font-size: 1em; color: #586069;">
-  <li>Telegram: <a href="https://t.me/damirdevio" style="color: #0366d6;">@damirdevio</a></li>
-  <li>Portfolio: Coming Soon 🚀</li>
-</ul>
+  <section style="background-color: #ffffff; padding: 20px; border-radius: 8px; margin-bottom: 16px; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);">
+    <h2 style="color: #0366d6;">💼 Open to Collaborate</h2>
+    <ul style="list-style-type: none; padding: 0;">
+      <li style="color: #555; padding: 6px 0;">Open-source <strong>React</strong> projects</li>
+      <li style="color: #555; padding: 6px 0;">Frontend communities for growth and knowledge sharing</li>
+      <li style="color: #555; padding: 6px 0;">Projects valuing design and usability as well as functionality</li>
+    </ul>
+  </section>
 
-<h2 style="color: #0366d6; margin-top: 1em;">😄 Pronouns</h2>
-<p style="font-size: 1em; color: #586069;">He/Him</p>
+  <section style="background-color: #ffffff; padding: 20px; border-radius: 8px; margin-bottom: 16px; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);">
+    <h2 style="color: #0366d6;">📫 How to Reach Me</h2>
+    <ul style="list-style-type: none; padding: 0;">
+      <li style="color: #555; padding: 6px 0;">Telegram: <a href="https://t.me/damirdevio" style="color: #0366d6; text-decoration: none;">@damirdevio</a></li>
+      <li style="color: #555; padding: 6px 0;">Portfolio: Coming Soon 🚀</li>
+    </ul>
+  </section>
 
-<h2 style="color: #0366d6; margin-top: 1em;">⚡ Fun Fact</h2>
-<p style="font-size: 1em; color: #586069;">
-  When I’m not coding, I’m likely sketching UI ideas, playing chess, or learning about design psychology!
-</p>
+  <section style="background-color: #ffffff; padding: 20px; border-radius: 8px; margin-bottom: 16px; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);">
+    <h2 style="color: #0366d6;">😄 Pronouns</h2>
+    <p style="color: #555;">He/Him</p>
+  </section>
 
-<p style="color: #6a737d;">
-  <!-- damirdevio/damirdevio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. Click the Preview link to check it out! -->
-</p>
+  <section style="background-color: #ffffff; padding: 20px; border-radius: 8px; margin-bottom: 16px; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);">
+    <h2 style="color: #0366d6;">⚡ Fun Fact</h2>
+    <p style="color: #555;">
+      When I’m not coding, I’m likely sketching UI ideas, playing chess, or learning about design psychology!
+    </p>
+  </section>
+
+  <p style="text-align: center; color: #6a737d; margin-top: 20px;">
+    <!-- damirdevio/damirdevio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. Click the Preview link to check it out! -->
+  </p>
+</div>
